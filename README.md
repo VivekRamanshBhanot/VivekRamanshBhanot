@@ -7,4 +7,4 @@ Welcome to my Github Profile Page :
 - 🌱 I am currently exploring the world of Data Science and Machine Learning
 - 🎓 I am currently pursuing BTech from Punjab Engineering College (Deemed To Be University), Chandigarh, India
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love making new friends, I am fond of singnig 🎤 and sketching ✏️
+- ⚡ Fun fact: I love making new friends. I am fond of singnig 🎤 and sketching ✏️
